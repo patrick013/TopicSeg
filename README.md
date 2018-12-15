@@ -74,9 +74,30 @@ If return 1 and ![topic_index](https://latex.codecogs.com/gif.latex?topic_%7Bind
 ##### Analyzing vector ![pho](https://latex.codecogs.com/gif.latex?%5Cmathbf%7B%5Crho%20%7D)
 
 The idea of analyzing idea ![pho](https://latex.codecogs.com/gif.latex?%5Cmathbf%7B%5Crho%20%7D) is to detect the variety of each topic score with the detected sequences location changing for boundary detection.\
-Based on the example above, it is obviously to see that analyzing the vector ![corevector](https://latex.codecogs.com/gif.latex?%5Cmathbf%7Bas_t%27-as_%7Bt-1%7D%27%7D): \
+Based on the example above, it is obvious to see that analyzing the vector ![corevector](https://latex.codecogs.com/gif.latex?%5Cmathbf%7Bas_t%27-as_%7Bt-1%7D%27%7D): \
 >![analysevector](https://raw.githubusercontent.com/patrick013/TopicSeg/master/Images/analysep.png)\
 The best threshold currently tested is 0.3 for NB-based topic score predictor and for SVM-based predictor. 
+
+## Usage
+Class *TopicSeg.topic_seg.segmenter(predictor_model='nb', dataset_file="../Datasets/LabeledDataset.txt",labels_dic, threshold=0.3)*
+
+> ### Parameters:
+> * **predictor_model**: String, optional(default='nb')
+>   * Classification model for Topic Score Predictor
+> * **dataset_file**: String, optional(dafault="../Datasets/LabeledDataset.txt")     
+>   * Directory of the labelled dataset. This parameter should be changed for different segmentation tasks. The default directory here is used to achieve topic segmentation of clinical notes.
+> * **labels_dic**: dictionary, optional(default={'A':'History','B':'Labs','C':'Medications','D':'PhysicalExam','E':'Courses'})
+>   * Labels used in the dataset. This parameter should be changed for different segmentation tasks. The default directory here is used to achieve topic segmentation of clinical notes.
+> * **threshold**:float, optional(default=0.3,range=[0,1])
+>   * Threshold of analyzing vector ![pho](https://latex.codecogs.com/gif.latex?%5Cmathbf%7B%5Crho%20%7D). 
+
+### Methods
+> * **get_Boundary_Position(notelines)**: Get all the boundaries and 
+>   * 
+> **get_Seg_index(notelines)**:
+> **print_Segs(notelines)** |dd
+
+
 
 ## Please Cite
 > Ruan, Wei, et al. "Pictorial Visualization of EMR Summary Interface and Medical Information Extraction of Clinical Notes." 2018 IEEE International Conference on Computational Intelligence and Virtual Environments for Measurement Systems and Applications (CIVEMSA). IEEE, 2018.
