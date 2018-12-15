@@ -38,8 +38,8 @@ Where:
 ![s_i](https://latex.codecogs.com/gif.latex?s_i): the ![i^th](https://latex.codecogs.com/gif.latex?i%5E%7Bth%7D) tokenized sentence or sequence s;
 
 The following two pictures show the accumulated score (![as](https://latex.codecogs.com/gif.latex?%5Cboldsymbol%7B%5Cmathbf%7B%5Cmathit%7Bas%7D%7D%7D)) of probability in vector ![scorevector](https://latex.codecogs.com/png.latex?%5Cinline%20%5Cfn_phv%20%5Cmathbf%7B%5Crho%7D%20%3D%5Bas_1%2Cas_2%2C...%2Cas_t%5D) obtained using the classifiers based on NB (left) and SVM (right) models. Vertical axis represents the score of the vector 𝐯 while horizontal axis refer to the location of each sequence.\
-![nb1](https://raw.githubusercontent.com/patrick013/TopicSeg/master/Images/nb1.png)
-![svm1](https://raw.githubusercontent.com/patrick013/TopicSeg/master/Images/svm1.png)
+
+
 
 Let's take a close look at the variety of these five scores through initializing each accumulated score vector ![as](https://latex.codecogs.com/gif.latex?%5Cboldsymbol%7B%5Cmathbf%7B%5Cmathit%7Bas%7D%7D%7D) by being subtracted by the maximum value in the vector:\
 ![as_initial](https://latex.codecogs.com/gif.latex?%5Cmathbf%7Bas_i%5E%27%7D%3Dmax%28%5Cmathbf%7Bas_i%7D%29-%5Cmathbf%7Bas_i%7D)\
