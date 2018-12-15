@@ -78,6 +78,9 @@ Based on the example above, it is obviously to see that analyzing the vector ![c
 >![analysevector](https://raw.githubusercontent.com/patrick013/TopicSeg/master/Images/analysep.png)\
 The best threshold currently tested is 0.3 for NB-based topic score predictor and for SVM-based predictor. 
 
+## Please Cite
+> Ruan, Wei, et al. "Pictorial Visualization of EMR Summary Interface and Medical Information Extraction of Clinical Notes." 2018 IEEE International Conference on Computational Intelligence and Virtual Environments for Measurement Systems and Applications (CIVEMSA). IEEE, 2018.
+
 
 
 
