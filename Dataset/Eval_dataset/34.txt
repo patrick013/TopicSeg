@@ -1,0 +1,49 @@
+A history of present illness 
+A this 61yearold ambidextrous female is referred by dr orellana for followup of possible stroke or tia
+A the patient is interviewed and available records are reviewed
+A in february she developed left leg weakness on arising one morning
+A there was also some possible ataxia of the left upper extremity with decreased control of both the arm and the leg
+A this seemed to occur for two days in a row and on one occasion she fell getting out of bed
+A the symptoms resolved before she could be evaluated
+A she attributed the symptoms to not enough air pressure in her air mattress and once this was corrected she feels that the event has not reoccured
+A the second event was apparently associated with some left facial weakness as well
+A she was seen by neurology on 021043 after she was admitted
+A the history includes also lightheadedness and foggy vision per that report
+A initially mri of the head showed no acute events but did show a change in the right posterior cerebral artery and a lesion in the left temporal lobe
+A also in the record is noted that at the time of the second event her glucose was very low at around 32 and symptoms resolved after treatment with d50
+A there was also further history that the patient had been seeing a chiropractor for treatment of neck pain in the several months leading up to the event
+A on examination at the time of admission there were no clear findings
+A mri was said to show periventricular white matter changes
+A the area of abnormality adjacent to the left lateral ventricle was thought to perhaps represent an old prior small hemorrhage
+A mra of the brain showed absence of visualization of the right pca about 1 cm beyond its origin but mra of the neck showed no significant changes
+A subsequent echocardiogram showed mild lvh with no evidence of a shunt
+A currently the patient is asymptomatic and presents for routine followup
+A it has been unclear what the cause of her symptoms was
+A some have attributed the symptoms to hypoglycemia and another formulation was that of a thalamic tia given the changes in the right pca on mra
+A another consideration was dissection from manipulation by the chiropractor
+A there is no clinical history to go with the possible old small hemorrhage
+A social history 
+A past medical history is notable for hypertension hypercholesterolemia spinal stenosis diabetes depression neuropathy anxiety copd arthritis and sinus symptoms
+C medications 
+C lisinopril lopressor glyburide naprosyn neurontin paxil lescol advair trazodone glucophage and 
+C not withstanding the above the patient continues to smoke
+C she uses alcohol occasionally
+C she has a 12th grade education
+C she lives alone and is a widow
+D physical examination 
+D blood pressure is 14886 pulse 83 and regular respirations 20
+D the patient is overweight
+D height is 5 foot 3 inches
+D weight is 217 pounds
+D range of motion of the neck is reduced in all quadrants though without clear spasm
+D poor neck posture is noted
+D funduscopic examination is normal with regard to disks and vessels
+D cardiovascular testing carotids are 2+ without bruits
+D temporal arteries are normal
+D musculoskeletal testing gait and station show a slight slowing of gait that has been present for years
+D romberg is negative
+D tandem gait is normal
+D the patient does move slowly in general this is probably not reflective of true bradykinesia
+D there is some asymmetry of the shoulders with elevation on the right compared with the left
+D this affects movements of the arms and range of motion of the arms but it appears to be orthopedic in nature and not neurologic
+D there is no focal muscle weakness or atrophy noted

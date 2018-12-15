@@ -1,0 +1,66 @@
+A history of present illness 
+A a 65yearold female who presents today for hospital followup
+A i admitted her to the hh on 100379 with an episode of hypoxemia which was felt to be secondary to chf and diastolic dysfunction
+A she was discharged to johnson rest home on 101279
+A two hours after arrival she had a respiratory arrest and was taken to the intensive care unit at clinica rovira where she stayed until 110379
+A she is extremely difficult to diurese because of her tenuous renal function this required multiple adjustments of her medication
+A stress test showed no ischemia and echocardiogram showed concentric left ventricular hypertrophy with normal chamber size and systolic function estimated ejection fraction is 65 as well as biatrial enlargement 
+A she did well acutely with bipap and remains on oxygen
+A as part of her workup she had pulmonary function tests which showed moderate obstruction without a bronchodilator response and some mild restriction likely due to her obesity
+A in addition she was quite anemic with hematocrit of 19 on presentation
+A there was no evidence of hemolysis
+A she is mildly iron deficient and colonoscopy showed a tubulovillous adenoma which was excised as well as  a short area of barretts esophagus
+A there was no evidence of active bleeding
+A she received multiple transfusions throughout her stay and was started on darbepoetin for what was ultimately felt to be anemia of renal disease
+A she was discharged to lahey clinic and has just returned home
+A her son brendon ambrose who was the healthcare proxy is here with her today
+A today she feels reasonably well
+A she is still somewhat weak from the prolonged hospitalization but is quite enthusiastic about the fact that she lost 30 pounds
+A she is taking her medications regularly and remains on 2 liters of oxygen
+A she has no chest pain or shortness of breath
+A her diabetes regimen was changed during the hospital she is still taking 7030 insulin but lower dose in the evenings and using a sliding scale of lispro insulin with meals
+A hospital course was complicated by a hospitalacquired pneumonia and urinary tract infection as well
+A past medical history 
+A congestive heart failure secondary to diastolic dysfunction type 2 diabetes renal insufficiency with baseline creatinine approximately 3 hyperlipidemia atrial fibrillation peripheral vascular disease chronic obstructive pulmonary disease peripheral neuropathy barretts esophagus colon polyps tubulovillous adenoma 2079 diverticulosis adenoid hypertrophy humeral fracture history of marijuana use history of alcohol abuse
+C medications 
+C reconciled today they include1  aspirin 81 mg daily
+C 2  calcium plus d 1 tablet bid3  darbepoetin is followed by dr dougherty at st marys
+C 4  iron sulfate 325 mg bid5  hydralazine 100 mg tid6  loratadine 10 mg daily
+C 7  metolazone 100 mg daily
+C 8  metoprolol succinate 150 mg daily
+C 9  multivitamin
+C 10
+C nitroglycerin patch 03 mg per hour 3 x 01 mg patches
+C 11  7030 novolog 60 units in the morning and 35 in the evening
+C 12  omeprazole 20 mg bid13
+C potassium chloride 40 meq tid
+C 14
+C ropinirole 025 mg daily
+C 15
+C simvastatin 40 mg daily
+C 16
+C spiriva 1 inhalation daily
+C 17
+C spironolactone 50 mg daily
+C 18  torsemide 100 mg bid
+C 19
+C trazodone 25 mg nightly
+C 20
+C bcomplex vitamin daily
+C 21
+C vitamin d3 1000 units daily
+C 22  coumadin as monitored by the hematology dept
+C allergies to medications 
+C none
+D physical examination 
+D blood pressure is 13660 pulse 74 temperature 97 and weight 222 pounds
+D general appearance  she looks remarkably well given everything she has gone through
+D heent is unremarkable
+D neck is supple
+D no lymphadenopathy no jvd
+D lungs are clear
+D heart irregularly irregular without murmurs
+D abdomen is soft nontender without organomegaly
+D extremities without edema
+B laboratories 
+B drawn by the vna on 010480 shows hematocrit of 286 inr 21 on december 9 2079 as well as potassium 39 and creatinine 32

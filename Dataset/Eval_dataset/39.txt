@@ -1,0 +1,61 @@
+A history of present illness 
+A the patient is a 76yearold femalewith history of prior strokes hypertension diabetes andparoxysmal atrial fibrillation who presents with altered mentalstatus
+A as per report the patient has not been acting likeherself and not communicating or speaking like herself
+A thepatient was in her usual state of health until a few days agowhere she started to develop a cough as well as some chills
+A thepatients family members state that the patient has not been outof bed and has been unwilling to eat
+A the patients familymembers state that the patient is not acting like her usual self
+A the patients family members deny noting the patient complainingof any nausea vomiting chest pain or shortness of breath
+A thepatient was actually taken to clinic yesterday because thepatient was starting to speak less
+A the patient was seen clinicand was thought to be depressed
+A the patient has a known historyof a facial droop
+A the patient was incontinent of urine today
+D physical examination 
+D the patients vital signs reveal thefollowing  temperature was 1028 heart rate 110160 beats perminute respiratory rate 20 blood pressure is 144110 andoxygen saturation was 95 on room air
+D the patients oxygensaturation was interpreted as borderline low
+D general  no acutedistress multiple family members at bedside
+D heent thepatients head was normocephalic and atraumatic no scalphematomas
+D pupils were equal round and reactive to light
+D mucous membranes were somewhat dry right facial droop noted nodrooling
+D neck  supple no jvd no carotid bruits appreciated
+D there was no meningismus
+D respiratory  poor cooperation withexam
+D fair aeration no focal rhonchi rales or wheezes noincreased work of breathing or use of accessory muscles wasnoted
+D cardiovascular  irregularly irregular tachycardicunable to appreciate any gross murmurs rubs or gallops
+D gi abdomen  soft no rebound or guarding prior wellhealed priorgtube scar noted
+D rectal exam deferred
+D gu exam  the patientwas incontinent of urine
+D skin  warm and dry
+D no rash orlesions were noted
+D back  the patient did not have anycostovertebral angle tenderness
+D there is no midline thoraciclumbar or sacral spine tenderness to palpation
+D extremities warm and well perfused no clubbing cyanosis or asymmetricallower extremity edema was noted
+D there were no palpable cords
+D neuro  the patient was alert the patient was a verbal
+D thepatient grossly moved all 4 extremities with fair strength
+D thepatient responded to touch appropriately
+D the patient was unableto cooperate with cranial nerve examination
+E emergency department course 
+E upon arrival to the emergencydepartment the patient had history and physical exam performed
+E the patient was noted to be in atrial fibrillation with rapidventricular response
+E the patients 12lead ekg revealed a rateof 166 beats per minute atrial fibrillation with rapidventricular response stable twave inversions noted over thelateral leads as well as over the precordial leads
+E no definitest segment abnormalities were noted
+E the patient then had aportable chest xray and as per report the patients portablechest xray did not reveal any acute cardiopulmonary process orfindings
+E the patient did have a noncontrast head ct scan andthe patients noncontrast head ct scan was notable for somerightsided edema
+E the patient will have this followed up withan mri of the brain
+E the patients laboratory studies werenotable for sodium of 131 and potassium of 52
+E the patientslactic acid was 17
+E the patients white blood cell count wasnot elevated
+E the patient was not anemic
+E the patientsurinalysis was consistent with infection
+E the patients firstset of cardiac markers were negative
+E the patients coagulationstudies were normal
+E the patient was treated with ceftriaxonefor her urinary tract infection
+E the patient could possibly haveurosepsis given her fever and tachycardia
+E urine sepsis is myleading diagnosis at this time
+E the patients rightsided edemais certainly concerning however i do not feel that the patientwill need to be admitted to neurology at this time
+E the patientwill be admitted to medicine for presumed urosepsis
+E the patientwill need to be admitted to a monitor bed
+E the patients bloodpressure is normal and as such i do not feel that the patientneeds an intensive care unit bed
+E in terms the patients atrialfibrillation with rapid ventricular response the patient wasgiven metoprolol iv
+E the patient was not given any oralmedications secondary to her possible stroke
+E the patient wasgiven rectal tylenol as well as rectal kayexalate for herelevated potassium at 52

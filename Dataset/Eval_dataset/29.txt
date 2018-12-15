@@ -1,0 +1,142 @@
+A history of present illness 
+A ms linsenmayer is a 68yearold woman with metastatic breast cancerthat was first diagnosed in 1999  and she is status postlumpectomy with lymph node dissection and multiple chemotherapyregimens
+A she is currently on xeloda with excellent responseper dr cagan  her outpatient oncologist  she has virtually noevidence of metastatic disease on ct
+A over the past few months the patient has had chronic problems with nausea and decreasedappetite
+A this has become especially acute over the past week and as a result  her chemotherapy is now on hold
+A she has alsohad some worsening diarrhea  for which she was prescribedimodium  but because of ongoing issues with compliance  it wasfelt that she was not taking enough at home
+A during anoutpatient visit with her cardiologist  her blood pressure wasnoted to be 9050  so her dose of atenolol and lasix wasdecreased
+A of note  the patient is status post a recentadmission to mh for digoxin toxicity  so this medication is nowalso on hold
+A of note  the patient is not currently on coumadindespite a history of atrial fibrillation due to a history of gibleeding  possible interactions with her chemotherapy regimen and ongoing issues with medication compliance
+A the patient wasadmitted for rehydration  management of nauseavomitingdiarrhea and control of her pain and other symptoms
+A past medical history 
+A metastatic breast cancer  diagnosed in 1999  status postlumpectomy and lymph node dissection  formerly on numerouschemotherapy regimens including adriamycincytoxan  taxol taxotereherceptin  gemcitabine   atrialfibrillationsupraventricular tachycardia  hypertension hypercholesterolemia  cholecystitis  diabetes mellitus esophagitis
+C admission medications 
+C lasix 20 mg qd
+C  aspirin 325 mg qd
+C  xeloda 1500 mg bid  twoweeksone week off   zofran 8 mg tid
+C  prn
+C nausea  compazine10 mg qid
+C prn
+C nausea  protonix 40 mg bid
+C  atenolol 75 mgqd
+C  lomotil 1 mg bid
+C  trazodone 50 mg qhs
+C prn
+C insomnia  percocet 3255 mg prn
+C pain  ativan 1 mg qid
+C prn
+C anxiety  metformin 850 mg bid
+C  vioxx 125 mg qd
+A family history 
+A the patient has several uncles and cousins with cancer  but sheis unsure of what type
+A social history 
+A the patient lives with her daughter and grandson
+A she has nohistory of tobacco or alcohol use
+D physical examination 
+D vital signs temperature 979  pulse 101  bp 8066  respiratoryrate 16  o2 sat 99 on room air
+D general alert  spanishspeaking  no acute distress
+D heent perrl  eomi  poor dentition  op clear
+D neck no lad  from  supple
+D chest ctab
+D cv irregularly irregular  s1  s2  no murmursrubsgallops
+D abdomen soft  distended  mild tenderness to palpation in thelower quadrants bilaterally  slightly tympanitic  normoactivebowel sounds  no hepatosplenomegaly
+D extremities warmwell perfused  trace dppt pulses  noclubbingcyanosisedema  ulcer on left large toe  severelycracked and dry skin on hands and feet
+D neuro cranial nerves ii through xii grossly intact  55 strengththroughout
+B laboratory values 
+B significant for creatinine 13  glucose 137  wbc 96 with 28polys and 29 bands  hematocrit 381  total protein 52  albumin20  alt 41  ast 18  alk phos 61  total bilirubin 25
+B an ekg showed atrial fibrillation with rapid ventricular responseat approximately 140 beatsminute
+B no st or t wave changes
+E hospital course 
+E 1 gi colitis given the patients persistent and chronicnausea  vomiting  and diarrhea  there was significant concern forsmall bowel obstruction on admission
+E however  a kub andabdominal ct were both negative for small bowel obstruction
+E shewas originally kept npo for bowel rest  and a nasogastric tubewas placed with significant drainage
+E stool studies were sentincluding c difficile  ova and parasites  cecal leukocytes  andshigellasalmonellayersiniacampylobacter studies  all of whichwere negative
+E because of the concerning nature of the patientssymptoms  surgery consult was called  however they felt that herproblems were likely nonsurgical in nature
+E cts performed twodays and five days after admission showed identical findings ofrightsided colitis
+E they remained largely unchanged
+E nevertheless  the patient experienced continued nausea andvomiting and also continued diarrhea throughout this time
+E onceher nasogastric tube output decreased significantly approximately one week after admission  the tube was removed andthe patient was started on po  and her diet was advanced astolerated
+E from that point on  the patient had no nausea orvomiting  and she is currently tolerating a full diet
+E nevertheless  she continues to have mild diarrhea  now twoepisodes per day as compared to6 to 8 episodes per day prior toadmission
+E in the end  the workup for the underlying cause ofher nausea  vomiting  and diarrhea has been negative
+E it istherefore our suspicion that her symptoms are most likelysecondary to toxicity from her chemotherapy medication  xeloda
+E of note  the patient also has other signs of xeloda toxicity including possible hepatotoxicity  see below  as well as severecracking and drying of the skin on her hands and feet
+E 2 hepatitis a ct performed on admission to evaluate for smallbowel obstruction showed a significantly cirrhotic and fattyliver with no masses
+E on admission  the patients totalbilirubin was 25 however  her bilirubin levels escalatedprecipitously to a maximum of 176
+E at the same time  thepatient developed clinical manifestations of this  includingscleral icterus and jaundice
+E also  as her albumin levelsdecreased to below 15  she developed significant ascites andperipheral edema
+E gastroenterology consult suggested a rightupper quadrant ultrasound  which was negative for obstruction  ahepatic mri  which also showed a cirrhotic and fatty liver  andalso a diagnostictherapeutic ir guided paracentesis  whichdrained 1 liter of sterile fluid
+E hepatitis serologies were alsosent  and the patient was hepatitis a and b negative  but cpositive however  her viral load was less than assay  and herafp was within normal limits
+E a rheumatologic workup forautoimmune hepatitis was also negative
+E because of the acutenessand the timing of her presentation  it was felt that her liverfailure was likely secondary to a combination of hepatitis andalso toxicity from her xeloda
+E on discharge  the patients hepatic function had been improvingsignificantly for three days  with her albumin increasing  herinr decreasing and her bilirubin levels also decreasing
+E ondischarge  her total bilirubin was 160 down from 176  heralbumin was 19 up from 15  and her inr was 16 down from 26
+E it is anticipated that as the patients nutritional statuscontinues to improve  her hepatic function will continue tonormalize with resulting normalization of her laboratory values
+E 3 cardiovascular on admission  the patient was in atrialfibrillation with rapid ventricular response at the rate ofapproximately 140 beats per minute
+E she was also hypotensive with a blood pressure of roughly 9060
+E she was placed oncardiac telemetry  which recorded rapid a fib up to the 170s
+E as a result  she was given iv lopressor with decreased heart ratebut also significant reduction in her blood pressure requiringfluid boluses
+E after 24 hours  after her blood pressure hadstabilized following the administration of intravenous fluids she was started on a diltiazem drip at 5 mg per hour  whichhelped to establish stable rate control in the 80s with continuedatrial fibrillation
+E at the same time  the patient was loadedwith digoxin  but her levels were high given that the patientwas status post a recent admission for digoxin toxicity  thismedication was subsequently held
+E in one incident  the patientdeveloped a temporary junctional rhythm for approximately 5minutes with a heart rate in the 50s
+E at that point  input waselicited from the cardiology consult service  who thought thather symptoms were likely secondary to the diltiazem drip
+E however  given concern for a tachybrady syndrome  thepossibility of an implantable cardiac pacemaker was discussed
+E however  the patient did not have any recurrence of thejunctional rhythm
+E a tte was obtained  which showed an ejectionfraction of 60 with trace mr and moderate tr  left and rightatrial enlargement  and normal left and right ventricularfunction
+E once the patient was again taking po medications her diltiazem drip was changed to po diltiazem
+E for the nextseveral days  the patient had several episodes each night of 3 to5 beat runs of nsvt
+E however  on the three days prior todischarge  the patient had no events on telemetry  and her heartrate was stable in the 60s to 80s  with a blood pressure runningfrom 901005060
+E shortly before discharge  the patient alsodeveloped episodic shortness of breath  which was attributed tomild pulmonary edema  and she responded well to boluses of ivlasix
+E as a result  she was restarted on aldactone witheffective gentle diuresis
+E the plan on discharge will be tofollow her volume status carefully and to adjust her diureticregimen as needed to maintain her volume status with continuedimprovement in her hepatic function
+E 4 endocrine the patient has a history of diabetes mellitus and her metformin was held on admission secondary to an elevatedcreatinine
+E as a result  she was started on a lispro slidingscale
+E given that she was npo for several days  she was notgiven any insulin and her blood sugars remained stable in the low100s
+E after she again started taking po  she was restarted ona sliding scale  and she maintained excellent blood sugar controlbetween 100 and 150
+E a hemoglobin a1c obtained during thisadmission was also within normal limits
+E of note  the patienthas a left toe ulcer  and was seen by orthopedic surgeries andoutpatient totally before admission
+E 5 heme the patient had an inr of 26 on admission secondary tocirrhosis and poor nutrition
+E as a result  she was given vitamink subcu npo as needed
+E as noted above  despite a history ofatrial fibrillation  the patient is not on coumadin at homesecondary to poor med compliance
+E at home  she was only onaspirin  but this was also discontinue during the admissionsecondary to continued guaiac positive stool
+E nevertheless  herhematocrit remained stable throughout her admission and she didnot require any transfusions
+E as dvt prophylaxis  the patientwas kept on pneumo boots throughout the admission
+E at one point she was noted to have left upper extremity swelling greater thanthe right upper extremity  but an ultrasound was negative fordvt
+E as noted above  on discharge  the patients inr wasimproving secondary to improved nutrition
+E she will bedischarged without any anticoagulation at present  however thiscan be further reevaluated as an outpatient by her cardiologistand oncologist
+E 6 fen the patient was initially rehydrated with normal saline however this was changed to d5w plus 3 amps of bicarb since shedeveloped a bicarb gap
+E once this gap was closed  she was givengentle normal saline as maintenance fluids
+E once the patientstarted taking significant po  her iv fluids were discontinued
+E the patients electrolytes were also repleted as necessary
+E plan on discharge will be to continue following her electrolytesclosely to prevent further exacerbation of her cardiacarrhythmias
+E 7 pain the patient was given oxycodone po and morphine ivfor pain
+E the patient was previously on vioxx at home fororthopedic pain related to her diabetes  however  given recentdata suggesting possible cardiotoxic effects of vioxx  this willbe discontinued  and she will be sent home with oxycodone prnfor pain
+E 8 onc the patients xeloda is currently on hold since many ofher symptoms leading up to this admission were likely secondaryto chemo toxicity
+E as noted above  the patient has otherevidence of chemo toxicity as well  including significantly driedskin on her hands and feet
+E the patients outpatient oncologist dr willard brixius  followed her closely during this admission  andshe will follow up with the patient regarding possible changes toher chemotherapy regimen
+E 9 disposition the patient was seen by the physical therapyservice shortly before discharge  and they noted that shedisplayed difficulty even moving from the bed to the chair  whichis significantly below her baseline of being able to ambulateindependently
+E as a result  after extensive discussions with herfamily  it was decided that the patient will be best served bygoing to a rehab facility for continued closed supervision of hermedical problems  supervised administration of her medicationregimen  continued strength training and conditioning  and alsocontinued nutrition
+E once the patient is able to be lessdependent on outside assistance  she can be sent home with eithera home health aide or visiting nurse for continuedrehabilitation
+E of note  the patients code status wasestablished by her outpatient oncologist as dnrdni
+E this wasconfirmed with the patient during this hospitalization
+D physical examination on discharge 
+D vital signs temperature 983  pulse 80  blood pressure 10464 respiratory rate 20  o2 sat 99 on room air
+D general alert  no acute distress  icteric sclerae  and slightlyjaundiced
+D respiratory ctab except for few crackles at the basesbilaterally
+D cv irregularly irregular s1  s2  16 sm at the left uppersternal border  no rubsgallops
+D abdomen soft  distended  decreased from prior   mildly tender topalpation diffusely  normoactive bowel sounds
+D extremities warmwell perfused  nontender  1 to 2+ pedal edema 1 to 2+ left upper extremity edema  significantly drycrackedskin on hands and feet
+B laboratory values on discharge 
+B sodium 137  potassium 43  bicarb 26  creatinine 10  glucose 61 calcium 78  magnesium 22  wbc 151 with 87 polys  hct 368 platelets 101  000  inr 16  alt 18  ast 46  alk phos 103  t bili160  total protein 58  albumin 19
+C discharge medications 
+C lispro sliding scale  if blood sugar less than 135  give 0 unitssubcutaneously if blood sugar is 125 to 150  then give 2 unitssubcutaneously if blood sugar is 151 to 200  then give 3 unitssubcutaneously if blood sugar is 201 to 250  then give 4 unitssubcutaneously if blood sugar is 251 to 300  then give 6 unitssubcutaneously if blood sugar is 301 to 350  then give 8 unitssubcutaneously if blood sugar is 351 to 400  then give 10 unitssubcutaneously   multivitamin one qd
+C  protonix 40 mg qd
+C diltiazem 60 mg tid
+C  aldactone 25 mg qd
+C  oxycodone 5 to 10mg po q4h
+C prn
+C pain  trazodone 50 mg po qhs
+C prn
+C insomnia  compazine 5 mg po q6h
+C prn
+C nausea  vitamin k 5 mgpo qd

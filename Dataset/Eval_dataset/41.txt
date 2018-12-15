@@ -1,0 +1,23 @@
+C medications 
+C tylenol acetaminophen 500mg tablet take 2 tablets po bid folic acid 1mg tablet take 1 tablets po qd asa acetylsalicylic acid 81mg tablet take 1 tablets po qd mvi multivitamins 1 capsule po qd cod liver oil 1 tbsp po bid calcium + d 500 elem
+C ca calcium carbonate 1250 mg 500mg elem ca vit d 125 iu 1 tab po bid aranesp darbepoetin alfa 200 mcg sc every other week methotrexate rheum
+C 175 mg 25mg tablet take 7 po qweek prednisone 5mg tablet take 1 tablets po bid glucophage metformin 500mg tablet take 2 tablets po bid zebeta bisoprolol fumarate 5mg tablet take 05 po qd fosamax alendronate 70mg tablet take 1 tablets po qweek celebrex celecoxib 200mg capsule take 1 capsules po bid plavix clopidogrel 75 mg po qd lisinopril 10mg tablet take 1 tablets po qd carafate suspension sucralfate suspension 1 gm 1g10ml oral susp take 10 ml po qid restoril temazepam 15mg capsule take 12 po qhs prn insomnia
+D physical examination 
+D vital signs  bp 14860 p 64 rr 16 temp 987 f wt 144 lb  ms do was a very pleasant cushingoidappearing white woman in some distress due to pain
+D her skin was notable for ecchymoses on her extremities
+D there was a healed skin graft on her left lower leg
+D wellhealed scars were present over the lateral aspect of her right hip and over the anterior aspect of each knee
+D there were no skin rashes
+D subcutaneous nodules consistent with rheumatoid nodules were present over the extensor surfaces of both elbows
+D her lungs were clear to auscultation
+D her cardiac examination revealed normal first and second heart sounds without murmurs or extra sounds
+D her musculoskeletal examination was notable for pain upon abduction and external rotation of her left shoulder
+D there was ulnar deviation of the fingers of her right hand
+D there was a boutonniere deformity of her left ring finger
+D bilateral hallux valgus deformities and cockup toe deformities were present on both feet
+D there was full painless motion of all small and large joints in both arms and legs without evidence of joint inflammation or of other significant joint deformity
+D her neurologic examination was notable for decreased sensation to light touch in the distribution of her right ulnar nerve but was otherwise normal
+D her neurologic examination was normal with normal mental status normal function of cranial nerves ii through xii normal muscle strength and tone in both arms and legs intact sensation to light touch throughout normal coordination and symmetric deep tendon reflexes with downgoing plantar reflexes bilaterally
+B laboratory data 
+B i reviewed the laboratory data in the lmr with ms do
+B studies performed at ogh on jun 04 2109 revealed esr 19 mmhr crp 106 mgl a benign urinalysis ana 180 with a speckled pattern of immunofluorescence rheumatoid factor 165 iuml and igg anticcp antibodies 129 units

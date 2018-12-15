@@ -1,0 +1,93 @@
+A history of present illness 
+A the patient is a 73 year old male whowas in his usual state of health untilapproximately one to two weeks prior to admission  when the patienthad his antihypertensive medications changed
+A his nifedipine wasdiscontinued because of gingival hypertrophy and atenolol wasreplaced
+A shortly after that he developed increased dyspnea onexertion  shortness of breath  especially with walking in themorning
+A there was a question of lightheadedness
+A he denied anychest pain  pressure  or tightness
+A no jaw  neck or arm symptoms
+A no orthopnea or pnd
+A her also denied visual symptoms or headache
+A one day prior to admission the patient was taking a walk and was sofatigued that he had to stop
+A on the day of admission the patientwas again taking a walk and was noted by friends to be somewhatunsteady and diaphoretic
+A the emts were called
+A the patient wasgiven lasix and nitroglycerin with improvement in his symptoms
+A hedenies cough  fevers  chills  vomiting  melena or hematochezia
+A the patient has been taking all of his prescribed medications
+A nodietary changes
+A he notes good appetite  no early satiety
+A he hasa history of two syncopal episodes in the distant past
+A on themorning of the admission the patient has not taken any of hismedications yet
+A past medical history 
+A 1 hypertension diagnosed in 1969
+A 2 chronic renal insufficiency  with a baseline creatinine of 18 felt to be hypertensive
+A 3 cataracts bilaterally
+A 4 no history of coronary artery disease5 status post appendectomy in the 1950s
+A 6 status post umbilical hernia repair in 1945
+C medications 
+C 1 lisinopril 80 mg q d2 atenolol 25 mg q d3 aldomet 750 mg tid
+A social history 
+A the patient quit smoking tobacco approximately 40years ago
+A occasional alcohol use
+A family history 
+A his brother had a heart attack in his late 50s
+A the brother also has diabetes
+D physical examination 
+D vital signs temperature 98  blood pressure19098  pulse 48
+D o2 saturation was 98 ontwo liters by nasal cannula
+D general the patient is an elderlyafricanamerican gentleman  sitting up in bed in no acute distress talking in complete sentences
+D heent the left eye has anonreactive pupil
+D the right eye has a small pupil  approximately2 mm  with a clear cataract
+D there is no icterus
+D the oropharynxwas clear with gingival hypertrophy
+D neck supple  with fullrange of motion
+D there was no lymphadenopathy
+D jvp was difficultto assess because of the large neck
+D cardiac regular rate andrhythm with a 26 systolic murmur at the base
+D the carotids werewithout bruits
+D pulmonary the patient had bibasilar rales withexpiratory wheezing and a prolonged expiratory phase
+D abdomen protuberant  soft  nontender
+D normoactive bowel sounds
+D noorgans appreciated
+D extremities edema 2+
+D femoral pulses were2+
+D there were bruits
+D distal pulses were intact
+D rectal thepatient was hemenegative
+E hospital course 
+E by problemscongestive heart failure the patient underwent a rule outmyocardial infarction protocol and subsequently did rule out
+E after that he had an exercise echo
+E the patient exercised forthree minutes on a modified bruce  achieving a maximum heart rateof 97 and a blood pressure of 160
+E the test was stopped because ofknee pain and shortness of breath
+E baseline images prior toexercise showed mild left ventricular hypertrophy  with overallnormal function
+E there were no resting wall motion abnormalities
+E stress images obtained after peak exercise showed a suggestion of aposterobasilar hypokinesis
+E no other wall motion abnormalitieswere noted
+E it was felt that this findings were questionable fornonspecific finding or ischemia
+E it was felt that the ekg portionof the ett showed no evidence for ischemia
+E the patient wasdiuresed gently with iv lasix and his shortness of breath improved
+E hypertension on admission  the patients blood pressure wasapproximately 220110
+E the patient was started on iv nitroglycerinand iv labetalol in the emergency department
+E the patient wassubsequently weaned from iv nitroglycerin and switched to pohydralazine and minoxidil  100 mg tid and 25 mg q d respectively
+E the patient had excellent blood pressure control onthese medications
+E the patient was discharged with close followupin order to titrate these medications
+E anemia the patients admission hematocrit was 322
+E subsequenthematocrits were very labile  and there was felt to be some laberror involved
+E followup hematocrit was in the mid 20s
+E this wasrepeated and was again in the mid 20s
+E he was transfused two unitsof packed red blood cells and underwent upper endoscopy
+E thefindings were gastritis  with some small erosions in the antrum anda subcutaneous nodules  which was biopsied
+E h pylori studies werepending at discharge  as were biopsy results
+E the patient wasstarted on prilosec 20 mg q d and will continue with this forseveral weeks
+E aspirin was held  as the patients egd findingswere felt to be consistent with nsaid gastritis
+E iron studiesobtained were not entirely consistent with iron deficient anemia
+E the serum iron was low
+E however  the ferritin and tibc were withinthe normal range
+E further workup of the patients anemia will takeplace as an outpatient
+E chronic renal insufficiency the patients creatinine increasedfrom admission value of 20 to 25
+E this was felt to be secondaryto diuresis  and the patients diuretic dose was decreased
+E thepatient will need to have outpatient followup of his creatinine
+C discharge medications 
+C 1 albuterol inhaler two puffs as needed for shortness of breathand wheezing
+C 2 prilosec 20 mg q d3 symvastatin 10 mg q d4 nitroglycerin sublingual as needed for chest pain  pressure ortightness
+C 5 aldomet 750 mg tid6 minoxidil 25 mg q d7 lisinopril 80 mg q d8 hydralazine 100 mg tid9 lasix 80 mg q d10
+C iron sulfate 300 mg bid

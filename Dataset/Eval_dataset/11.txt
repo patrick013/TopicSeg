@@ -1,0 +1,94 @@
+A history of present illness 
+A mr majeau is a 74yearold man with severe venous stasis  chfwith an ef of 60  atrial fibrillation on coumadin  copd  historyof severe left lower extremity cellulitis in march 2006 statuspost surgical debridement  who presents with shortness of breath andleft lower extremity cellulitis
+A the patient was in his usualstate of health on the day of admission and was getting up to thebathroom when he felt suddenly short of breath and wheezy
+A hecalled ems
+A he notes that his left leg and foot have beenpainful and swollen x2 weeks with redness tracking up the leg
+A he has had no fever  chills  coughs or chest pain
+A in the ed  hereceived nebulizers  vancomycin and levofloxacin
+A past medical history 
+A chf with an ef of 60  history of right heart failure likelysecondary to pulmonary hypertension and obstructive sleep apnea atrial fibrillation on coumadin  osteoarthritis  bilateralchronic venous stasis  benign prostatic hypertrophy  copd hypercholesterolemia  obesity
+C home medications 
+C coumadin 2 mg po nightly  lasix 80 mg po twice daily  zocor10 mg po nightly  potassium 20 meq po daily  azmacort withadap 100 mcg inhaled 3 puffs twice daily  albuterol 2 puffsinhaled twice daily  atrovent 05 mg inhaled q6h
+C prn
+C shortness of breath  ferrous sulfate one tab po twice daily patient not taking 
+A family history 
+A the patient lives at home with a roommate
+A he is retired  workedin advertising for 20 years for no he has nochildren
+A he smoked 60 pack years and quit 26 years ago
+A hedoes not drink any alcohol  use any iv drugs or illicitsubstances
+A social history 
+A the patient has a living sister  werner lieberman who has cancer
+A she is his healthcare proxy
+A her phone number is 1993471999
+D admission physical examination 
+D vital signs temperature 965  pulse 85  blood pressure 9836 respiratory rate 22  oxygen saturation 99 on 2 liters
+D generally  the patient is obese with short of breath  alert andoriented x3
+D cardiovascular exam remarkable for an irregular irregular rhythm with distant heart sounds  no murmurs  rubs orgallops
+D normal s1 and s2  his jvp was noted to be at the jaw
+D lungs remarkable for diffuse wheezes
+D abdomen obese nontender  without masses
+D extremities he had bilateralpitting edema  left lower extremity was noted to be erythematousto the inguinal crease with weeping
+D he was neurologicallynonfocal
+B admission labs 
+B remarkable for sodium of 129  potassium 57  creatinine of 15 upfrom his baseline 0913  bun of 30
+B magnesium 16  inr 28
+B first set of cardiac enzymes were negative with a bnp of 127
+B wbc is 285  hematocrit 347  platelets of 189  baselinehematocrit is usually in the high 20s
+B differential notablefor 97 neutrophils and 20 bands
+B ekg remarkable for atrial fibrillation with a rate of 82  qwavesin v1 and v2 without st changes  low voltage
+B his twave wasupright in v2 and v3 which is changed from his prior ekg in726 
+B chest xray notable for pericardial effusion whichshows increase in size and question of fluid at the bilateralbases
+E hospital course 
+E 1 cardiovascular the patient had some pseudonormalization inv2  v3
+E he was ruled out for mi
+E he was continued on hisaspirin and zocor
+E his ck was noted to be increasing  but he wasclinically unchanged  and there was low suspicion for necrotizingfasciitis or myositis
+E he was not felt to be cardiac in origin
+E the patient has right heart failure
+E he was overloaded on exam
+E his jvp was difficult to assess given his history of tricuspidregurgitation
+E he did have enlarged heart on his chest xray andan echo on 51506 showed a precordial fatpad without effusion
+E his ef was unchanged
+E his pa pressure was 35+ ra
+E his ivc wasnonpulsatile suggesting increased ra pressures
+E he responded tolasix 80 mg iv
+E he was not diuresed on this admission
+E he wascontinued on his home dose of lasix at 80 mg po twice daily
+E 2 atrial fibrillation the patient has no need for ratecontrol at this time
+E coumadin was held for gi bleeding that thepatient developed on 4206 
+E he had an episode of hematemesisin the setting of an inr of 3 which was thought to be amalloryweiss tear from coughing
+E his hematocrit stabilized at27 his fibrinogen ddimer were normal
+E he was made npo
+E received four units of ffp and 2 units of packed red cells
+E anng tube was placed which has been since removed
+E the gi servicerecommended an iv proton pump inhibitor
+E on 51506  his dietwas advanced
+E he was tolerating that well and his hematocritswere stable at this point
+E 3 respiratory the patient had wheeziness on exam when he wasadmitted
+E he received duonebs q6h
+E and on exam  his wheezinessresolved
+E 4 id the patient has recurrent cellulitis secondary to venousstasis
+E cultures from the debridement in 726 were negative
+E blood cultures drawn prn
+E 31906 were positive foracinetobacter diphtheroids
+E wound cultures of the left legshowed 2+ acinetobacter  beta streptococcus group gcorynebacterium
+E from the right leg  he grew 2+ mrsa corynebacterium and beta strep
+E the organisms were sensitive tolevofloxacin  his staph aureus mrsa
+E blood culture 4206 isno growth to date at the time of this dictation
+E stool on4206 was positive for c diff and urine culture 51506showed gramnegative rods
+E surgical service recommendedantibiotic treatment
+E the patient was started on vancomycin started 31906   levofloxacin  started 31906   aztreonamwas added on 51506 for acinetobacter in his blood
+E hewas given gentamicin x1 on 4206 in the setting ofhypotension
+E he will continue vancomycin and levofloxacin forfour weeks and will stop on 7006 
+E he will continue flagylfor six weeks  started 2206 to stop on 111107 for his cdiff 
+E the wound culture from his bilateral lower extremities ispolymicrobial
+E if the erythema spread  he becomes febrile  or hislegs become more tender  please have a low threshold fornoncontrast ct and surgical consultation
+E lower extremitydopplers were negative for dvt but there is incompletevisualization at all of his left leg veins5 renal the patient had acute on chronic renal failure  baseline creatinine 0911   hyponatremia  hyperkalemia onadmission
+E there was some question of adrenal insufficiency buthe had a normal random cortisol
+E his fractional excretion ofurea was 26 and he has since been volume resuscitated
+E hiscreatinine responded accordingly
+E 6 prophylaxis the patient has been on coumadin that was heldin the setting of gi bleed
+E we have held his lovenox as well
+E he is on an oral proton pump inhibitor
+C discharge medications 
+C pending

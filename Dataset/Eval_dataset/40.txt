@@ -1,0 +1,18 @@
+C current medications 
+C aspirin gemfibrozil nifedipine plavix propranolol ranitidine
+D physical examination 
+D pleasant healthyappearing 74yearold male
+D blood pressure 16090 sitting standing 15590
+D cranial nerve examination notable for right homonymous hemianopsia
+D auscultation of the neck unremarkable
+D no bruits
+D there are bilateral cea scars
+D motor examination no drift
+D power 55 throughout
+D fine finger movements intact
+D in the lower extremities
+D power 55 on the right
+D the left he is status post left knee fusion
+D the left iliopsoas and dorsiflexion are full strength
+D his gait shows left limp due to knee fusion but he appears steady
+D dtrs 1+ throughout

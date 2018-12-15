@@ -1,0 +1,91 @@
+A history of present illness 
+A the patient had three weeks of coldlike symptoms  which progressively worsened
+A initially  she hada sore throat and mild headache that progressed to asputumproductive cough
+A she has been in orthopnea at baselinebut has become increasingly short of breath and requiring morefrequent inhaler treatments
+A she went to her primary carephysician last week and got azithromycin for presumed pulmonaryinfection
+A she completed antibiotic course but over the past fewdays has felt even more short of breath
+A she works at a hospitaland yesterday measured her o2 saturation  which was 76 undermild exertion
+A she then came to the emergency department todayfor evaluation and treatment
+A past medical history 
+A significant for copd with a fev1fvc of81 of predicted in february of 2004
+A she was hospitalized forthree weeks and intubated for past pneumonia
+A she did have homeo2 following that hospital course
+A chf
+A hypertension
+A diabetes
+A left breast cancer 18 months ago status post radiationand surgery complicated by mrsa wound infection
+A hypothyroidism
+C medications 
+C lasix 40 daily  levothyroxine 225 mcg daily lisinopril 10 mg daily  xanax one tablet tid
+C  motrin prn
+C combivent  b12  and potassium chloride 20 meq daily
+A social history 
+A 30pack history of tobacco use
+A she works atcolorado
+A family history 
+A noncontributory
+D physical exam 
+D vital signs  temperature 992  heart rate 86 blood pressure 15388  respiratory rate 24  o2 saturation 86
+D exam  general  in no apparent distress  pleasant middleagedwoman sitting in a wheelchair
+D heent  perrl  no scleral icterus
+D face flushed with spider angioma
+D mucosal membranes moist
+D neck  jvp approximately 7 cm
+D cv  regular rate and rhythm  26systolic murmur apex radiating to axilla and laterally displacedpmi
+D chest  no wheezes after nebulizers
+D mild crackles at rightbase
+D abdomen  soft  nondistended  nontender  modestly obese
+D extremities  2+ pulses  mild lower extremity bilaterally
+D edemain the upper extremities  left greater than right
+B laboratory data 
+B on admission  sodium 139  potassium 46 chloride 97  bicarb 31  bun 14  creatinine 06  glucose 105  wbc46  hematocrit 458  platelets 256
+B lfts within normal limits
+B coags within normal limits
+B bnp 46  ckmb 09  troponinsnegative
+B ekg showed normal sinus rhythm  twave inversions  v3through v5
+B chest xray shows enlarged heart with right middlelobe opacity
+E hospital course 
+E 1 pulmonary the patient with possible right middle lobepneumonia versus chf versus exacerbation versus copd versus pe
+E the patient is found to have pneumonia
+E she is afebrile withnormal white blood cell counts but continues to be hypoxic to themid 80s on room air
+E sputum cultures were sent and the patientwas treated empirically with levaquin
+E levaquin was given for atotal of 8 doses inhouse and the patient will continue for atotal of 14day course
+E the patient had a pect  which wasinitially read was positive  however  the final read was negativefor pe
+E the patient initially received a dose of lovenox 100 mgbid
+E but was discontinued given negative pe
+E the patient wasseen by pulmonary service who performed the bronchoscopy on9705  which showed a copious bloodtinged mucosa andcollapsed right middle lobe lung with narrow orifice
+E brushingsand cytology were taken and sent to pathology and the results arestill pending
+E the patients pulmonary function test showedsevere obstructive disease with the fev of 09 with some aspectsof restrictive disease
+E she also underwent a bubble study  whichwas negative for heart septal defects
+E the pa pressure wasestimated at 42
+E the patient then underwent a right heartcatheterization to check for vasodilator response and heartfunction
+E this was performed on 102805  which showed highrightsided heart pressures and a pulmonary wedge pressure of1618 and suggested that the patient was not in acute left heartfailure
+E the patient was also seen by the ookter highway pulmonary hypertension consult service  whose impressions werethat the patients poor pulmonary function is due to copd andpectus cavernosum as well as radiation for breast cancer and ischronic condition
+E no indication was present for treatment withprimary pulmonary antihypertensive agents
+E the patient then hada repeat chest xray on 102805 to evaluate for the right middlelobe  which continues to be collapsed
+E the patient was stable on23 l of nasal cannula oxygen  saturating at about middle 90s
+E the patient was reevaluated by physical therapy on 51805 andwas found to not need any particular treatments at home
+E thepatient was discharged to home with home o2 23 nasal cannula andinstructed to keep o2 saturations above 88
+E the patient doeswork in the hospital
+E the patients work situation anddisability regarding her lung condition was discussed by theattending physician
+E 2 cardiovascular the patient is stable with no evidence ofacute chf  complicating dyspnea
+E the bnp was normal and jvpremained relatively flat throughout her hospital course
+E thepatient was continued on her outpatient hypertensive medications which was captopril and that was given tid with good control
+E the patient was also on lasix 40 mg daily  which was thenincreased to 60 on day of discharge to encourage gentle diuresis
+E 3 endocrine the patient has dietcontrolled diabetes at home
+E she was on insulin sliding scale and house and required onlyseveral units of insulin a day
+E her blood sugars remained in themid 100s
+E the patient was on levoxyl 225 mcg daily inhouse and was foundto have a increased tsh of 105  therefore dose of levoxyl wasincreased to 250 mcg
+E the patient is instructed to follow upwith her primary care provider and her endocrinologist in twoweeks to recheck a tsh4 musculoskeletal the patient complaining of leg cramps chest spasms  and back pain
+E back pain appears chronic
+E chestspasms appeared to be musculoskeletal in etiology and notcardiac
+E the patient was on oxycodone 5 mg q4h
+E prn and thentransitioned to oxycontin 10 mg bid with good pain control5 social services the patient was seen by social servicesregarding prescription coverage  ability to handle copayments
+E additionally  her concerns regarding shortterm disability andlongterm disability for work were addressed
+E the patient is toinquire with her benefit office to determine for services
+C discharge medications 
+C levaquin 500 mg daily for six more days captopril 125 mg po tid
+C  lasix 60 mg po daily levothyroxine 250 mcg po daily  xanax 025 mg tid
+C prn
+C oxycontin 10 mg po q12h
+C  combivent 12 puffs qid

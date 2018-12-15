@@ -1,0 +1,45 @@
+A hpi 
+A 75 yo woman with a history of r mca r cerebellar stroke tias iliac vein thrombosis pfo and recent rp hematoma and rectus sheath hematoma at gmh 8138782687 currently off of anticoagulation because of her recent bleeds
+A pt reports sudden onset of sob this am
+A not associated with any other symptoms
+A a contractor who was at her home at the time called ems who took pt to hospital
+A en route she developed nausea and had 1 episode of nbnb emesis
+A otherwise she denies cp cough fever chills abdominal pain nausea vomiting other than the episode in the ambulance change in bowelbladder habits
+A no exacerbating or alleviating symptoms
+A of note she has some residual left sided weakness from her prior r mca stroke and some balance issues from her cerebellar stroke
+A in the ed the patient was tachypnic with sats in the low 80s and  placed on oxygen by nasal cannula with improved sats on 4l to the mid 90s
+A then was able to be weaned to room air with sats still in the mid 90s
+A she also was tachycardic to the 90s with bps to the 9060 with one episode of bp to 78 systolic
+A she responded well to fluid with 2l in the ed and improved bps
+A ct showed stable rp and rectus sheath hematomas no evidence of dvt or iliac thrombosis and no evidence of pe
+A cxr was clear
+A of note following her hospitalization at promptcare in july 2087 for tia where she was found to have a small pfo and iliac vein thrombosis she was started on coumadin
+A however the patient was recently admitted to gmh with rectus sheath and rp hematoma
+A per the patient she received 8 u prbc there
+A she also received ffp and vitamin k to reverse her coumadin
+A during her hospitalization she was in the icu for hypotension and tachycardia
+A an ivc filter was placed initially but subsequently dc8217d on 82687
+A she was discharged off of anticoagulation
+A pmh 
+A r mca stroke 0285r cerebellar stroke 1285osteoarthritis sp bilateral knee replacementsgerd chronic gi bleed with anemiahtnhldbladder incontinenceiliac vein thrombosisrectus sheath hematomaretroperitoneal hematoma
+C medications on admission 
+C omeprazole 40 mg po dailyatenolol 125 mg po dailysimvastatin 40 mg po every nightferrous sulfate 324 mg po two times a day
+A social history 
+A lives on her own in big bear lake
+A performs all adls
+A denies etoh ivduformer smoker ~50 pk yrs quit 20 yrs ago
+D physical exam 
+D vitals t     996   hr 75  bp 9458      rr     22     o2sat 98 2l nc general welldeveloped wellnourished female nadskin no rashesheent  ncat sclera anicteric normal conjunctiva
+D dry mucous membranes no oralbuccal lesions
+D chest clear to auscultation bl no wheezes or rhonchicv  rrr
+D normal s1 s2 no mrg
+D abd soft nontender nondistended
+D 8x8 cm mass like structure on right abdomen at rectus
+D non tender nonerythematous
+D ext warm wellperfused no clubbing cyanosis edema
+D no palpable cords neg homan8217s sign bl
+D neuro alert oriented x 3 cn212 intact except for slight left facial droop and mild slurring of speech
+D m 55 strength at ue and le bilaterally except for very slight decrease in left s intact to lt bl
+B laboratory 
+B notable labs chem nl ca 92lactate 14vbg 7344457cbc 54gt406lt347
+B inr 11 ptt 192amylase 246 lipase 330lfts alt 14 ast 28 alk p 61tbili 11 dbili 02

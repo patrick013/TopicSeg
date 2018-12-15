@@ -1,0 +1,68 @@
+A history of present illness 
+A patient is a 79 year old russianspeaking female who had had a historyof exertional chest pain and no previous documented coronary arterydisease
+A in august 1995  patient was admitted to penle hospital for symptomatic bradycardia
+A she ruled out for amyocardial infarction at that time
+A echocardiogram revealed leftventricular hypertrophy and left ventricular cavity obstructionwith systolic outflow tract gradient of 2030 mm of mercury
+A injuly 1995  patient presented to the sumri sondoyle hospital with complaintsof exertional chest pain with onset after one flight of stairs
+A she was started on atenolol
+A echocardiogram at that time revealedasymmetric septal hypertrophy  anterior movement of mitral valveduring systole  and peak left ventricular outflow tract gradient of58 mm of mercury
+A this was consistent with the diagnosis ofidiopathic hypertrophic subaortic stenosis
+A patient was continuedon atenolol  however  given her history of symptomatic bradycardia her dose could not be increased
+A one week prior to admission  thepatient noted onset of substernal chest pressure described as painin her anterior chest radiating to her jaw
+A this was usuallyexperienced in the late morning with no obvious relation toexertion usually accompanied by light headedness
+A on the day ofadmission  patient awoke without pain  however  in the am  sheagain noted onset of substernal chest pressure associated withlight headedness
+A this lasted for a period of about thirty minutesafter which time she had a syncopal event
+A the patient fell on herright hip without evidence of head trauma with brief loss ofconsciousness
+A within seconds  she was awake and conversant
+A emtwas alerted and she was brought to rit hospitalemergency department for further evaluation and management
+A shedenied any significant shortness of breath  fever  chills  andsweats
+A surgical history 
+A insulin dependent diabetes timestwenty years  status postpancreatectomy  ihss  and angina
+C current medications 
+C atenolol 25 mg po qd
+C  nifedipine xl 30 mgpo qd
+C  lisinopril 20 mg po qd
+C aspirin  and 30 units nph insulin qam
+A family history 
+A no family history of ihss or sudden deathdocumented
+A social history 
+A patient was originally from the ist
+A andfreca  formerteacher  married  and lived with husband
+A therewas no significant use of alcohol or tobacco
+D physical examination 
+D on admission  patient was a pleasant elderlyfemale in no acute distress
+D she wasafebrile with a heart rate of 64  blood pressure 11468 respiratory rate 16  and oxygen saturation 97 on room air
+D heent examination was notable for anisocoria  right pupil status postprevious surgery  and oropharynx clear without lesions
+D neck supple without lymphadenopathy  no jugular venous distention carotids were without bruits  and firm mobile mass on anteriorneck
+D lungs clear to auscultation bilaterally
+D heart regularrate and rhythm  s1  s2  and iiivi late systolic murmur best heardat the left lower sternal border
+D abdomen benign
+D extremities without clubbing  cyanosis  or edema
+D neurological examinationwas nonfocal
+D laboratory examination 
+D cbc showed a hematocrit of 431  whiteblood count 86  platelets 160 electrolytes within normal limits with a potassium of 47 buncreatinine 3409  liver function tests within normal limits inr 11  and ck 68
+D urinalysis showed a specific gravity of 1006 ph 55  and 1+ bacteria  chest xray with evidence of tortuousaorta but no acute pulmonary or cardiac disease  and ecg showed asinus rhythm  left ventricular hypertrophy  early repolarization inv1 to v3  t wave inversion in lead i  first degree av block otherwise with normal intervals  and axis minus 39
+B laboratory examination 
+B cbc showed a hematocrit of 431  whiteblood count 86  platelets 160 electrolytes within normal limits with a potassium of 47 buncreatinine 3409  liver function tests within normal limits inr 11  and ck 68
+B urinalysis showed a specific gravity of 1006 ph 55  and 1+ bacteria  chest xray with evidence of tortuousaorta but no acute pulmonary or cardiac disease  and ecg showed asinus rhythm  left ventricular hypertrophy  early repolarization inv1 to v3  t wave inversion in lead i  first degree av block otherwise with normal intervals  and axis minus 39
+E hospital course 
+E patient is a 79 year old female with a history ofihss and insulin dependent diabetes who nowpresented with a syncopal episode accompanied by substernal chestpressure
+E given the patients history of chest pain  she was ruledout for myocardial infarction with flat ck and cardiac troponin iof 00
+E she was placed on cardiac monitor
+E she was noted to havenormal sinus rhythm at a rate in the fifties to sixties increasingas high as the nineties with exertion
+E as a result  the patientsbeta blocker dose was increased as tolerated with close monitoringfor possible bradycardia
+E given the likelihood that her symptomscould be related to decreased outflow secondary to ihss  thepacemaker service was consulted
+E it was felt that the patientwould benefit from placement of a permanent pacemaker which wouldpossibly be therapeutic both for ihss as well as allowing furthertitration of beta blocker for her exertional angina
+E the procedurewas discussed with the patient and her family in detail and herfamily requested one additional evening to discuss whether or notto proceed with pacemaker placement
+E she remained on cardiacmonitor and remained asymptomatic throughout her hospital course
+E clinically  the patient remained stable
+E she remained on cardiacmonitor given her history of daily episodes of syncope and chestpain over the last week prior to admission
+E her blood sugar wasfollowed closely with fingersticks qid and she was replaced withsliding scale regular insulin in addition to her regular nph dose
+E on 41896  the patient underwent placement of a permanentpacemaker  mode dddr  via her left axillary vein withoutcomplication
+E the patient remained stable overnight and placementof pacemaker was confirmed with chest xray
+C discharge medications 
+C aspirin 325 mg po qd
+C  lisinopril 20 mgpo qd
+C  lopressor 25 mg po q8h
+C  andprocardia xl 30 mg po qd
+C she will resume her previous insulindosing
