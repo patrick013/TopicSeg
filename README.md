@@ -91,11 +91,32 @@ Class *TopicSeg.topic_seg.segmenter(predictor_model='nb', dataset_file="../Datas
 > * **threshold**:float, optional(default=0.3,range=[0,1])
 >   * Threshold of analyzing vector ![pho](https://latex.codecogs.com/gif.latex?%5Cmathbf%7B%5Crho%20%7D). 
 
-### Methods
-> * **get_Boundary_Position(notelines)**: Get all the boundaries and 
->   * 
-> **get_Seg_index(notelines)**:
-> **print_Segs(notelines)** |dd
+> ### Methods
+> * **get_Boundary_Position(notelines)**: Get all the boundaries and corresponding topic labels sequence.
+>   * Parameter: notelines: the list of text to be segmented.
+>   * Return: List of detected boundaries and topic labels.
+> * **get_Seg_index(notelines)**: Get all the boundaries' index.
+>   * Parameter: notelines: the list of text to be segmented.
+>   * Return: List of boundaries' index.
+> * **print_Segs(notelines)**: Print out the segmented text.
+>   * Parameter: notelines: the list of text to be segmented.
+
+### Example
+```python
+>>> from TopicSeg.topic_seg import segmenter
+>>> mysegmenter=nbsegmenter()
+>>> boudanry_postion=mysegmenter.get_Boundary_Position(notelines)
+>>> print(boudanry_postion)
+>>> ['A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'C', 'C', 'D', 'D', 'D', 'D', 'D', 'E', 'E', 'E', 'E']
+>>> boudanry_index=mysegmenter.get_Seg_index(notelines)
+>>> print(boudanry_index)
+>>> [['A',8],['C',2],['D',5],['E',4]]
+>>> mysegmenter.print_Segs(nontelines)
+>>> ========History==========
+>>> history of present illness ...
+>>> ========Medications==========
+>>> The medications ....
+```
 
 
 
