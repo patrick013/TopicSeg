@@ -35,24 +35,24 @@ Formulaically：\
 	Pre-trained classifier models respectively assign ![sequence](https://latex.codecogs.com/png.latex?%5Cinline%20%5Cfn_phv%20s_1%2Cs_2%2Cs_3%2C......%2Cs_t) with a 5-dimensional vector ![scorevector](https://latex.codecogs.com/png.latex?%5Cinline%20%5Cfn_phv%20v%3D%5B%7Bscore%7D_%7Bhistory%7D%2Cscore_%7Blabs%7D%2Cscore_%7Bmeds%7D%2Cscore_%7BPE%7D%2Cscore_%7Bcourse%7D%5D) and obtain a t-dimensional accumulated score vector ![scorevector](https://latex.codecogs.com/png.latex?%5Cinline%20%5Cfn_phv%20%5Cmathbf%7B%5Crho%7D%20%3D%5Bas_1%2Cas_2%2C...%2Cas_t%5D). Each element in vector ρ could be obtained by using: ![vectorp](https://latex.codecogs.com/png.latex?%5Cinline%20%5Cfn_phv%20as_t%3Dv_1&plus;v_2&plus;...&plus;v_t).\
 Where:
 ![C_k](https://latex.codecogs.com/gif.latex?C_k): class ![k](https://latex.codecogs.com/gif.latex?k%20%5Csubset%20%5Cleft%20%5C%7B%20history%2C%20labs%2C%20medications%2C%20physical%20exams%2C%20hospital%20courses%20%5Cright%20%5C%7D)\
-![s_i](https://latex.codecogs.com/gif.latex?s_i): the ![i^th](https://latex.codecogs.com/gif.latex?i%5E%7Bth%7D) tokenized sentence or sequence s;\
+![s_i](https://latex.codecogs.com/gif.latex?s_i): the ![i^th](https://latex.codecogs.com/gif.latex?i%5E%7Bth%7D) tokenized sentence or sequence s;
 
 The following two pictures show the accumulated score (![as](https://latex.codecogs.com/gif.latex?%5Cboldsymbol%7B%5Cmathbf%7B%5Cmathit%7Bas%7D%7D%7D)) of probability in vector ![scorevector](https://latex.codecogs.com/png.latex?%5Cinline%20%5Cfn_phv%20%5Cmathbf%7B%5Crho%7D%20%3D%5Bas_1%2Cas_2%2C...%2Cas_t%5D) obtained using the classifiers based on NB (left) and SVM (right) models. Vertical axis represents the score of the vector 𝐯 while horizontal axis refer to the location of each sequence.\
 ![nb1](https://raw.githubusercontent.com/patrick013/TopicSeg/master/Images/nb1.png)
-![svm1](https://raw.githubusercontent.com/patrick013/TopicSeg/master/Images/svm1.png)\
+![svm1](https://raw.githubusercontent.com/patrick013/TopicSeg/master/Images/svm1.png)
 
 Let's take a close look at the variety of these five scores through initializing each accumulated score vector ![as](https://latex.codecogs.com/gif.latex?%5Cboldsymbol%7B%5Cmathbf%7B%5Cmathit%7Bas%7D%7D%7D) by being subtracted by the maximum value in the vector:\
 ![as_initial](https://latex.codecogs.com/gif.latex?%5Cmathbf%7Bas_i%5E%27%7D%3Dmax%28%5Cmathbf%7Bas_i%7D%29-%5Cmathbf%7Bas_i%7D)\
 A new vector ![pho_initial](https://latex.codecogs.com/gif.latex?%5Cmathbf%7B%5Crho_%7Binitial%7D%7D%3D%5B%5Cmathbf%7Bas_1%5E%27%7D%2C%5Cmathbf%7Bas_2%5E%27%7D%2C...%2C%5Cmathbf%7Bas_t%5E%27%7D%5D) would be obtained. The following shows ![phoinitial](https://latex.codecogs.com/gif.latex?%5Cmathbf%7B%5Crho_%7Binitial%7D%7D) based on on NB (left) and SVM (right) models.\
 ![nb1](https://raw.githubusercontent.com/patrick013/TopicSeg/master/Images/nb2.png)
-![svm1](https://raw.githubusercontent.com/patrick013/TopicSeg/master/Images/svm2.png)\
+![svm1](https://raw.githubusercontent.com/patrick013/TopicSeg/master/Images/svm2.png)
 
 Then take a backward difference of the former formula. As for the vector ρ_initial, it could be the following:\
 ![pho_initial_](https://latex.codecogs.com/gif.latex?%5Cmathbf%7B%5Crho_%7Binitial%7D%7D%5E%7B%27%7D%3D%5Cleft%20%5Clfloor%20%5Cmathbf%7Bas_2%5E%27%7D%20-%5Cmathbf%7Bas_1%5E%27%7D%2C%5Cmathbf%7Bas_3%5E%27%7D-%5Cmathbf%7Bas_2%5E%27%7D%2C...%2C%20%5Cmathbf%7Bas_t%5E%27%7D-%5Cmathbf%7Bas_%7Bt-1%7D%7D%5E%27%20%5Cright%20%5Crfloor)\
 Finally, it could be seen as follow:\
 ![nb1](https://raw.githubusercontent.com/patrick013/TopicSeg/master/Images/nb3.png)
 ![svm1](https://raw.githubusercontent.com/patrick013/TopicSeg/master/Images/svm3.png)\
-It is clear to see that there is a sharp change at the postion of sequence 10 where is the ground truth boundary.\
+It is clear to see that there is a sharp change at the postion of sequence 10 where is the ground truth boundary.
 
 ## Algorithm
 
@@ -66,10 +66,17 @@ In this project, Naive Bayes and Linear SVM models with features of BOW are main
 > 3. Topic score pretictor respectively assigns each sequence score and obtains vector ![scorevector](https://latex.codecogs.com/png.latex?%5Cinline%20%5Cfn_phv%20%5Cmathbf%7B%5Crho%7D%20%3D%5Bas_1%2Cas_2%2C...%2Cas_t%5D)
 > 4. Analyzing vector ![pho](https://latex.codecogs.com/gif.latex?%5Cmathbf%7B%5Crho%20%7D), \
 If return 0, let ![t=t+1](https://latex.codecogs.com/gif.latex?t%3Dt&plus;1), \
-If ![t>i](https://latex.codecogs.com/gif.latex?t%3Ei), ![sehment](https://latex.codecogs.com/gif.latex?s_1&plus;...&plus;s_%7Bt-1%7D) would be a segment;
-Else, go back to step 3;
-	If return 1 and 〖topic〗_index, 〖boundary〗_index=t-1. In other words, s_1+⋯+s_(boundary_index )  is a segment which discusses about 〖topic〗_index. Simultaneously, let T=s_t+⋯+s_i and go back to step 1 to segment the rest text;
+If ![t>i](https://latex.codecogs.com/gif.latex?t%3Ei), ![sehment](https://latex.codecogs.com/gif.latex?s_1&plus;...&plus;s_%7Bt-1%7D) would be a segment;\
+Else, go back to step 3;\
+If return 1 and ![topic_index](https://latex.codecogs.com/gif.latex?topic_%7Bindex%7D), ![boundary_index=t-1](https://latex.codecogs.com/gif.latex?boundary_%7Bindex%7D%3Dt-1). In other words, ![s_1+⋯+s_(boundary_index)](https://latex.codecogs.com/gif.latex?s_1&plus;...&plus;s_%7Bboundary_%7Bindex%7D%7D)  is a segment which discusses about ![topic_index](https://latex.codecogs.com/gif.latex?topic_%7Bindex%7D). Simultaneously, let ![T=s_t+⋯+s_i](https://latex.codecogs.com/gif.latex?T%3Ds_t&plus;...&plus;s_i) and go back to step 1 to segment the rest text;
 > 5. Segmentation finished. 
+
+##### Analyzing vector ![pho](https://latex.codecogs.com/gif.latex?%5Cmathbf%7B%5Crho%20%7D)
+
+The idea of analyzing idea ![pho](https://latex.codecogs.com/gif.latex?%5Cmathbf%7B%5Crho%20%7D) is to detect the variety of each topic score with the detected sequences location changing for boundary detection.\
+Based on the example above, it is obviously to see that analyzing the vector ![corevector](https://latex.codecogs.com/gif.latex?%5Cmathbf%7Bas_t%27-as_%7Bt-1%7D%27%7D): \
+>![analysevector](https://raw.githubusercontent.com/patrick013/TopicSeg/master/Images/analysep.png)\
+The best threshold currently tested is 0.3 for NB-based topic score predictor and for SVM-based predictor. 
 
 
 
