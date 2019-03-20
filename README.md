@@ -121,8 +121,8 @@ Class *TopicSeg.topic_seg.segmenter(predictor_model='nb', dataset_file="../Datas
 
 
 ## Please Cite
+> Ruan, Wei, and Won-sook Lee. "Boundary Detection by Determining the Difference of Classification Probabilities of Sequences: Topic Segmentation of Clinical Notes." 2018 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). IEEE, 2018.
 > Ruan, Wei, et al. "Pictorial Visualization of EMR Summary Interface and Medical Information Extraction of Clinical Notes." 2018 IEEE International Conference on Computational Intelligence and Virtual Environments for Measurement Systems and Applications (CIVEMSA). IEEE, 2018.
-
 
 
 
