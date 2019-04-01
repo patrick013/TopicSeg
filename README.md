@@ -127,7 +127,8 @@ Class *TopicSeg.topic_seg.segmenter(predictor_model='nb', dataset_file="../Datas
 
 ## Reference
 > Fournier, C., & Inkpen, D. (2012, June). Segmentation similarity and agreement. In Proceedings of the 2012 conference of the North American chapter of the association for computational linguistics: Human language technologies (pp. 152-161). Association for Computational Linguistics.
-> Segmentation Evaluation using SegEval: https://segeval.readthedocs.io/en/latest/#fournierinkpen2012
+
+> Fournier,C.(2012). Segmentation Evaluation using SegEval: https://segeval.readthedocs.io/en/latest/#fournierinkpen2012
 
 
 
