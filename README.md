@@ -125,6 +125,10 @@ Class *TopicSeg.topic_seg.segmenter(predictor_model='nb', dataset_file="../Datas
 
 > Ruan, Wei, et al. "Pictorial Visualization of EMR Summary Interface and Medical Information Extraction of Clinical Notes." 2018 IEEE International Conference on Computational Intelligence and Virtual Environments for Measurement Systems and Applications (CIVEMSA). IEEE, 2018.
 
+## Reference
+> Fournier, C., & Inkpen, D. (2012, June). Segmentation similarity and agreement. In Proceedings of the 2012 conference of the North American chapter of the association for computational linguistics: Human language technologies (pp. 152-161). Association for Computational Linguistics.
+> Segmentation Evaluation using SegEval: https://segeval.readthedocs.io/en/latest/#fournierinkpen2012
+
 
 
 
